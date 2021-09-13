@@ -1,0 +1,36 @@
+
+
+.Search{
+    border-color: lightseagreen;
+    border-radius: 1em;
+    margin: 5em 5em 0em;
+    color: lightseagreen;
+    background-color: white;
+    border-style: solid;
+    width: 10em;
+    height: 2em;
+
+}
+.sign{
+    background-color: rgb(9, 230, 218);
+    margin: 1em 5em 0em;
+    color: white;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    font-size: 15px;
+    border-color: none;
+}
+.CreateAccount{
+    color: white;
+    background-color: rgb(134, 134, 255);
+    border-color: black;
+    border-style: solid;
+    margin: 1em 5em 0em;
+    height: 2.5em;
+    width: 13em;
+    box-shadow: 0.5em 0.5em  black;
+    font-size: 15px
+
+    
+}
